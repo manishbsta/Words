@@ -21,6 +21,7 @@
         android:layout_below="@+id/leveltext"
         android:id="@+id/etWord"
         android:background="@drawable/background_edtit_text"
+        android:textColor="#FFFFFF"
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:focusable="false"
